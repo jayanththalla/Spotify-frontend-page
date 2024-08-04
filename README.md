@@ -1,2 +1,2 @@
 # Spotify-frontend-page
-The frontend part of the Spotify image 
+It is simple front page of Spotify which is only frontend part only
