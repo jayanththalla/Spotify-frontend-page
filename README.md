@@ -19,9 +19,7 @@ This project is a simple, static replica of the Spotify homepage, focusing solel
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling the page, including Flexbox and media queries for responsive design.
 
-## 📸 Screenshots
 
-Add some screenshots here to showcase different parts of your Spotify frontend page.
 
 ## 🚀 Getting Started
 
